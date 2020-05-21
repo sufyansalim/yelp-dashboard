@@ -1,4 +1,4 @@
-# YELP API Dashoard
+# YELP Dashboard --- React + Materalize CSS
 
 ![Yelp Search](yelpsearch.png)
 
