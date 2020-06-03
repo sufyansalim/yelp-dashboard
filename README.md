@@ -10,8 +10,15 @@
 
 # Usage
 
-Replace "YOUR-YELP-SECRET" in .env file with your own key provided by Yelp API.
-Delete .github/workflows folder it was just there for testing.
+Replace "YOUR-YELP-SECRET" in .env file with your own key provided by Yelp API.<br />
+Delete .github/workflows folder it was just there for testing.<br />
+
+```
+Change the build script in package.json to this
+"scripts": {
+    "build": "react-scripts build",
+  },
+```
 
 ## Install Dependencies
 ```
