@@ -11,6 +11,7 @@
 # Usage
 
 Replace "YOUR-YELP-SECRET" in .env file with your own key provided by Yelp API.
+Delete .github/workflows folder it was just there for testing.
 
 ## Install Dependencies
 ```
